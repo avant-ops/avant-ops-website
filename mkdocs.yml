@@ -6,3 +6,6 @@ theme:
   palette:
     primary: 'white'
     accent: 'blue'
+nav:
+- Home: 'index.md'
+- Conact us: 'contact.md'
