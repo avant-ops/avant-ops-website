@@ -1,0 +1,8 @@
+site_name: Avant Ops
+theme:
+  favicon: 'images/square_v1_ico.png'
+  name: 'material'
+  logo: 'images/logo_high_resolution.png'
+  palette:
+    primary: 'white'
+    accent: 'blue'
